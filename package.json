@@ -1,0 +1,14 @@
+{
+  "name": "express-todo-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "express":"nodemon expressServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
